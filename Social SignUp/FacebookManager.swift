@@ -9,7 +9,6 @@ import UIKit
 import FBSDKLoginKit
 import FacebookCore
 import FacebookLogin
-import SwiftyJSON
 
 typealias FacebookCallback = (_ facebook: Facebook) -> ()
 typealias FacebookCallbackError = (_ error: String) -> ()
